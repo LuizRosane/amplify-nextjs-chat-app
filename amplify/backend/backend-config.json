@@ -1,1 +1,37 @@
-{}
+{
+  "auth": {},
+  "parameters": {
+    "AMPLIFY_auth_amplifynextjschatapp_nativeClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "amplifynextjschatapp"
+        }
+      ]
+    },
+    "AMPLIFY_auth_amplifynextjschatapp_userPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "amplifynextjschatapp"
+        }
+      ]
+    },
+    "AMPLIFY_auth_amplifynextjschatapp_userPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "amplifynextjschatapp"
+        }
+      ]
+    },
+    "AMPLIFY_auth_amplifynextjschatapp_webClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "amplifynextjschatapp"
+        }
+      ]
+    }
+  }
+}
